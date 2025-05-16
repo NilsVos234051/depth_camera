@@ -1,0 +1,4 @@
+# Please download the following files and place them in this folder:
+# - MobileNetSSD_deploy.prototxt
+# - MobileNetSSD_deploy.caffemodel
+# You can get them from: https://github.com/chuanqi305/MobileNet-SSD
